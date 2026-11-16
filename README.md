@@ -1,5 +1,8 @@
 # Dataset Ownership Auditing: Detecting Unauthorized Use of Training Data with Statistical Tests and Canary Watermarks
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24288936.svg)](https://doi.org/10.5281/zenodo.24288936)
+
+
 A data owner suspects that someone trained a model on their dataset without permission. They can only query the model, not see its training data. Can they prove it? This project compares two ways to find out on the Adult Census dataset: a statistical audit that needs no changes to the data, and a canary watermark hidden in the data before it is shared.
 
 **Author:** Aakash Tiwari, M.S. Cybersecurity, Rowan University
